@@ -1,6 +1,6 @@
               
               
-                 API DE CADASTRO DE PRODUTOS DESENVOLVIDA COM SPRING 
+                 API DE CADASTRO DE PRODUTOS DESENVOLVIDA COM SPRING BOOT
                  
      API de cadastro de produtos com endpoints para serem consumidos por um front-end separado.
                  
